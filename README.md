@@ -1,3 +1,5 @@
+## DEPRECATED AS OF https://github.com/flatiron/winston/tree/41342885cd55ad2c43dc9eab46d83e664e7948ff (deletion pending a new Winston release with this fix)
+
 # winston [![Build Status](https://secure.travis-ci.org/flatiron/winston.png?branch=master)](http://travis-ci.org/flatiron/winston)
 
 A multi-transport async logging library for node.js. <span style="font-size:28px; font-weight:bold;">&quot;CHILL WINSTON! ... I put it in the logs.&quot;</span>
